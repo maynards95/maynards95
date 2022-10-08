@@ -1,1 +1,1 @@
-[![Ezra's GitHub stats](https://github-readme-stats.vercel.app/api?username=maynards95)](https://github.com/maynards95/github-readme-stats)
+[![Ezra's GitHub stats](https://github-readme-stats.vercel.app/api?username=maynards95$theme=gruvbox)](https://github.com/maynards95/github-readme-stats)
